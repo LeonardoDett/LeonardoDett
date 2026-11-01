@@ -1,55 +1,55 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" fill="none" role="img" aria-labelledby="title desc">
   <title id="title">Leonardo Dettmann Krüger — Senior Developer</title>
-  <desc id="desc">Deep green and lime banner featuring Leonardo's name and a diagram connecting interfaces, APIs, and data.</desc>
+  <desc id="desc">Space black, orange, magenta and cyan banner featuring Leonardo's name and a diagram connecting interfaces, APIs, and data.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="400" gradientUnits="userSpaceOnUse"><stop stop-color="#102B2B"/><stop offset="1" stop-color="#091C20"/></linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#A5C9BA" stroke-opacity=".055"/></pattern>
-    <linearGradient id="line" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#D6F78A"/><stop offset="1" stop-color="#5AA99C" stop-opacity="0"/></linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="400" gradientUnits="userSpaceOnUse"><stop stop-color="#0B0B0F"/><stop offset="1" stop-color="#1A1A24"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#EADCC8" stroke-opacity=".055"/></pattern>
+    <linearGradient id="line" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#FF8A3D"/><stop offset="1" stop-color="#D23B73" stop-opacity="0"/></linearGradient>
   </defs>
   <rect width="1200" height="400" rx="20" fill="url(#bg)"/>
   <rect width="1200" height="400" rx="20" fill="url(#grid)"/>
   <path d="M0 1H1200" stroke="url(#line)" stroke-width="3"/>
   <g font-family="Segoe UI, Arial, sans-serif">
-    <rect x="48" y="40" width="48" height="38" rx="10" fill="#D6F78A"/>
-    <text x="72" y="65" fill="#102B2B" font-size="16" font-weight="800" text-anchor="middle">LDK</text>
-    <text x="110" y="64" fill="#A1BCB5" font-size="13" letter-spacing="2">LEONARDODETT / GITHUB</text>
-    <text x="46" y="166" fill="#F3F4E9" font-size="76" font-weight="750" letter-spacing="-3">Leonardo</text>
-    <text x="49" y="213" fill="#F3F4E9" font-size="36" font-weight="400" letter-spacing="-.8">Dettmann Krüger</text>
-    <rect x="49" y="245" width="6" height="6" rx="3" fill="#D6F78A"/>
-    <text x="68" y="253" fill="#D6F78A" font-size="18" font-weight="600">Senior Developer</text>
-    <text x="49" y="292" fill="#A1BCB5" font-size="16">From interface to API. From detail to system.</text>
-    <path d="M49 332H597" stroke="#33504B"/>
-    <text x="49" y="363" fill="#91ABA4" font-size="12" letter-spacing="1.5">ARCHITECTURE</text>
-    <circle cx="184" cy="358" r="2" fill="#D6F78A"/>
-    <text x="203" y="363" fill="#91ABA4" font-size="12" letter-spacing="1.5">GOLANG</text>
-    <circle cx="283" cy="358" r="2" fill="#D6F78A"/>
-    <text x="302" y="363" fill="#91ABA4" font-size="12" letter-spacing="1.5">TYPESCRIPT</text>
-    <circle cx="420" cy="358" r="2" fill="#D6F78A"/>
-    <text x="439" y="363" fill="#91ABA4" font-size="12" letter-spacing="1.5">DEVOPS</text>
+    <rect x="48" y="40" width="48" height="38" rx="10" fill="#FF8A3D"/>
+    <text x="72" y="65" fill="#0B0B0F" font-size="16" font-weight="800" text-anchor="middle">LDK</text>
+    <text x="110" y="64" fill="#EADCC8" fill-opacity=".7" font-size="13" letter-spacing="2">LEONARDODETT / GITHUB</text>
+    <text x="46" y="166" fill="#EADCC8" font-size="76" font-weight="750" letter-spacing="-3">Leonardo</text>
+    <text x="49" y="213" fill="#EADCC8" font-size="36" font-weight="400" letter-spacing="-.8">Dettmann Krüger</text>
+    <rect x="49" y="245" width="6" height="6" rx="3" fill="#FF8A3D"/>
+    <text x="68" y="253" fill="#FF8A3D" font-size="18" font-weight="600">Senior Developer</text>
+    <text x="49" y="292" fill="#EADCC8" fill-opacity=".8" font-size="16">From interface to API. From detail to system.</text>
+    <path d="M49 332H597" stroke="#1A1A24"/>
+    <text x="49" y="363" fill="#EADCC8" fill-opacity=".75" font-size="12" letter-spacing="1.5">ARCHITECTURE</text>
+    <circle cx="184" cy="358" r="2" fill="#FF8A3D"/>
+    <text x="203" y="363" fill="#EADCC8" fill-opacity=".75" font-size="12" letter-spacing="1.5">GOLANG</text>
+    <circle cx="283" cy="358" r="2" fill="#FF8A3D"/>
+    <text x="302" y="363" fill="#EADCC8" fill-opacity=".75" font-size="12" letter-spacing="1.5">TYPESCRIPT</text>
+    <circle cx="420" cy="358" r="2" fill="#FF8A3D"/>
+    <text x="439" y="363" fill="#EADCC8" fill-opacity=".75" font-size="12" letter-spacing="1.5">DEVOPS</text>
     <!-- An original system diagram: interface, service, persistence. -->
-    <rect x="718" y="54" width="340" height="196" rx="14" fill="#142F30" stroke="#3E6158"/>
-    <path d="M718 89H1058" stroke="#3E6158"/>
-    <circle cx="738" cy="72" r="3" fill="#D6F78A"/><circle cx="751" cy="72" r="3" fill="#6C9284"/><circle cx="764" cy="72" r="3" fill="#456B60"/>
-    <text x="1037" y="76" fill="#91ABA4" font-size="10" font-family="Consolas, monospace" text-anchor="end">interface.tsx</text>
-    <rect x="738" y="109" width="67" height="121" rx="5" fill="#0D2326"/>
-    <rect x="749" y="123" width="42" height="5" rx="2" fill="#6C9284"/>
-    <rect x="749" y="145" width="32" height="4" rx="2" fill="#34564E"/>
-    <rect x="749" y="163" width="38" height="4" rx="2" fill="#34564E"/>
-    <rect x="749" y="181" width="26" height="4" rx="2" fill="#34564E"/>
-    <rect x="823" y="110" width="126" height="8" rx="3" fill="#C7DAC8"/>
-    <rect x="823" y="130" width="188" height="5" rx="2" fill="#456B60"/>
-    <rect x="823" y="153" width="98" height="77" rx="6" fill="#D6F78A"/>
-    <path d="M843 203L857 189L873 197L899 171" stroke="#234437" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-    <rect x="933" y="153" width="104" height="77" rx="6" fill="#20433E"/>
-    <text x="948" y="181" fill="#B5D0C1" font-size="10" font-family="Consolas, monospace">components</text>
-    <rect x="948" y="195" width="73" height="5" rx="2" fill="#456B60"/>
-    <rect x="948" y="209" width="51" height="5" rx="2" fill="#456B60"/>
-    <path d="M888 250V273Q888 285 900 285H940" stroke="#8FAE80" stroke-width="2" stroke-dasharray="5 5"/>
-    <rect x="941" y="267" width="170" height="46" rx="11" fill="#D6F78A"/>
-    <text x="1026" y="296" fill="#16372F" font-family="Consolas, monospace" font-size="16" font-weight="700" text-anchor="middle">{ API }</text>
-    <path d="M1026 313V337H958" stroke="#8FAE80" stroke-width="2" stroke-dasharray="5 5"/>
-    <rect x="787" y="319" width="170" height="37" rx="10" fill="#15332F" stroke="#53775F"/>
-    <text x="872" y="343" fill="#B8D1BC" font-family="Consolas, monospace" font-size="12" text-anchor="middle">[ PostgreSQL ]</text>
-    <text x="1088" y="64" fill="#53786A" font-size="10" letter-spacing="2" transform="rotate(90 1088 64)">BUILD WITH INTENTION</text>
+    <rect x="718" y="54" width="340" height="196" rx="14" fill="#1A1A24" stroke="#EADCC8" stroke-opacity=".2"/>
+    <path d="M718 89H1058" stroke="#EADCC8" stroke-opacity=".2"/>
+    <circle cx="738" cy="72" r="3" fill="#FF8A3D"/><circle cx="751" cy="72" r="3" fill="#D23B73"/><circle cx="764" cy="72" r="3" fill="#6CCBFF"/>
+    <text x="1037" y="76" fill="#EADCC8" font-size="10" font-family="Consolas, monospace" text-anchor="end">interface.tsx</text>
+    <rect x="738" y="109" width="67" height="121" rx="5" fill="#0B0B0F"/>
+    <rect x="749" y="123" width="42" height="5" rx="2" fill="#D23B73"/>
+    <rect x="749" y="145" width="32" height="4" rx="2" fill="#1A1A24"/>
+    <rect x="749" y="163" width="38" height="4" rx="2" fill="#1A1A24"/>
+    <rect x="749" y="181" width="26" height="4" rx="2" fill="#1A1A24"/>
+    <rect x="823" y="110" width="126" height="8" rx="3" fill="#EADCC8"/>
+    <rect x="823" y="130" width="188" height="5" rx="2" fill="#6CCBFF"/>
+    <rect x="823" y="153" width="98" height="77" rx="6" fill="#FF8A3D"/>
+    <path d="M843 203L857 189L873 197L899 171" stroke="#0B0B0F" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="933" y="153" width="104" height="77" rx="6" fill="#0B0B0F"/>
+    <text x="948" y="181" fill="#EADCC8" font-size="10" font-family="Consolas, monospace">components</text>
+    <rect x="948" y="195" width="73" height="5" rx="2" fill="#6CCBFF"/>
+    <rect x="948" y="209" width="51" height="5" rx="2" fill="#6CCBFF"/>
+    <path d="M888 250V273Q888 285 900 285H940" stroke="#D23B73" stroke-width="2" stroke-dasharray="5 5"/>
+    <rect x="941" y="267" width="170" height="46" rx="11" fill="#6CCBFF"/>
+    <text x="1026" y="296" fill="#0B0B0F" font-family="Consolas, monospace" font-size="16" font-weight="700" text-anchor="middle">{ API }</text>
+    <path d="M1026 313V337H958" stroke="#D23B73" stroke-width="2" stroke-dasharray="5 5"/>
+    <rect x="787" y="319" width="170" height="37" rx="10" fill="#1A1A24" stroke="#D23B73"/>
+    <text x="872" y="343" fill="#EADCC8" font-family="Consolas, monospace" font-size="12" text-anchor="middle">[ PostgreSQL ]</text>
+    <text x="1088" y="64" fill="#EADCC8" font-size="10" letter-spacing="2" transform="rotate(90 1088 64)">BUILD WITH INTENTION</text>
   </g>
 </svg>

@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1184" height="704" viewBox="0 0 1184 704" fill="none" role="img" aria-labelledby="stack-title stack-desc"><title id="stack-title">Systems Architecture, Golang, TypeScript and DevOps</title><desc id="stack-desc">Four custom expertise cards with 64-pixel spacing, using the orange, magenta, cyan, dark and warm ivory palette.</desc><svg x="0" y="0" xmlns="http://www.w3.org/2000/svg" width="560" height="320" viewBox="0 0 560 320" fill="none" role="img" aria-labelledby="architecture-title architecture-desc">
+  <title id="architecture-title">Systems Architecture</title>
+  <desc id="architecture-desc">Clear boundaries. Explicit contracts. Systems designed to evolve. DOMAIN MODELING, APIs, DATA.</desc>
+  <defs><linearGradient id="architecture-bg" x1="0" y1="0" x2="560" y2="320" gradientUnits="userSpaceOnUse"><stop stop-color="#1A1A24"/><stop offset="1" stop-color="#0B0B0F"/></linearGradient><pattern id="architecture-grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" stroke="#EADCC8" stroke-opacity=".035"/></pattern></defs>
+  <rect x=".75" y=".75" width="558.5" height="318.5" rx="18" fill="url(#architecture-bg)" stroke="#EADCC8" stroke-opacity=".2" stroke-width="1.5"/>
+  <rect x="1" y="1" width="558" height="318" rx="18" fill="url(#architecture-grid)"/>
+  <path d="M31 1H149" stroke="#FF8A3D" stroke-width="2"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="30" y="39" fill="#EADCC8" font-size="12" font-weight="600" letter-spacing="1.5">01 / SYSTEM DESIGN</text>
+    <rect x="444" y="58" width="88" height="88" rx="20" fill="#FF8A3D" fill-opacity=".07" stroke="#FF8A3D" stroke-opacity=".2"/>
+    <g transform="translate(452 65)" color="#FF8A3D" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"><rect x="24" y="13" width="24" height="17" rx="4"/><rect x="5" y="47" width="24" height="17" rx="4"/><rect x="43" y="47" width="24" height="17" rx="4"/><path d="M36 30v9H17v8m19-8h19v8"/></g>
+    <g fill="#EADCC8"><text x="30" y="110" font-size="36" font-weight="700" letter-spacing="-1">Systems</text><text x="30" y="153" font-size="36" font-weight="700" letter-spacing="-1">Architecture</text></g>
+    <text x="30" y="201" fill="#EADCC8" fill-opacity=".8" font-size="19">Clear boundaries. Explicit contracts.</text>
+    <text x="30" y="229" fill="#EADCC8" fill-opacity=".8" font-size="19">Systems designed to evolve.</text>
+    <path d="M30 260H530" stroke="#EADCC8" stroke-opacity=".15"/>
+    <circle cx="34" cy="288" r="3" fill="#FF8A3D"/>
+    <text x="49" y="292" fill="#EADCC8" font-family="Consolas, monospace" font-size="12" letter-spacing=".5">DOMAIN MODELING  /  APIs  /  DATA</text>
+  </g>
+</svg>
+
+<svg x="624" y="0" xmlns="http://www.w3.org/2000/svg" width="560" height="320" viewBox="0 0 560 320" fill="none" role="img" aria-labelledby="golang-title golang-desc">
+  <title id="golang-title">Golang</title>
+  <desc id="golang-desc">Focused services. Straightforward code. Well-structured APIs, built with Go. GO, REST, POSTGRESQL.</desc>
+  <defs><linearGradient id="golang-bg" x1="0" y1="0" x2="560" y2="320" gradientUnits="userSpaceOnUse"><stop stop-color="#1A1A24"/><stop offset="1" stop-color="#0B0B0F"/></linearGradient><pattern id="golang-grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" stroke="#EADCC8" stroke-opacity=".035"/></pattern></defs>
+  <rect x=".75" y=".75" width="558.5" height="318.5" rx="18" fill="url(#golang-bg)" stroke="#EADCC8" stroke-opacity=".2" stroke-width="1.5"/>
+  <rect x="1" y="1" width="558" height="318" rx="18" fill="url(#golang-grid)"/>
+  <path d="M31 1H149" stroke="#6CCBFF" stroke-width="2"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="30" y="39" fill="#EADCC8" font-size="12" font-weight="600" letter-spacing="1.5">02 / BACKEND ENGINEERING</text>
+    <rect x="444" y="58" width="88" height="88" rx="20" fill="#6CCBFF" fill-opacity=".07" stroke="#6CCBFF" stroke-opacity=".2"/>
+    <g transform="translate(452 65)" color="#6CCBFF" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"><path d="M6 24h17M2 36h17M8 48h15"/><text x="25" y="47" fill="currentColor" stroke="none" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="800" font-style="italic">Go</text></g>
+    <g fill="#EADCC8"><text x="30" y="153" font-size="44" font-weight="700" letter-spacing="-1.2">Golang</text></g>
+    <text x="30" y="201" fill="#EADCC8" fill-opacity=".8" font-size="19">Focused services. Straightforward code.</text>
+    <text x="30" y="229" fill="#EADCC8" fill-opacity=".8" font-size="19">Well-structured APIs, built with Go.</text>
+    <path d="M30 260H530" stroke="#EADCC8" stroke-opacity=".15"/>
+    <circle cx="34" cy="288" r="3" fill="#6CCBFF"/>
+    <text x="49" y="292" fill="#EADCC8" font-family="Consolas, monospace" font-size="12" letter-spacing=".5">GO  /  REST  /  POSTGRESQL</text>
+  </g>
+</svg>
+
+<svg x="0" y="384" xmlns="http://www.w3.org/2000/svg" width="560" height="320" viewBox="0 0 560 320" fill="none" role="img" aria-labelledby="typescript-title typescript-desc">
+  <title id="typescript-title">TypeScript</title>
+  <desc id="typescript-desc">Type-safe connections across the stack. From interface to API. REACT, NEXT.JS, NODE.JS.</desc>
+  <defs><linearGradient id="typescript-bg" x1="0" y1="0" x2="560" y2="320" gradientUnits="userSpaceOnUse"><stop stop-color="#1A1A24"/><stop offset="1" stop-color="#0B0B0F"/></linearGradient><pattern id="typescript-grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" stroke="#EADCC8" stroke-opacity=".035"/></pattern></defs>
+  <rect x=".75" y=".75" width="558.5" height="318.5" rx="18" fill="url(#typescript-bg)" stroke="#EADCC8" stroke-opacity=".2" stroke-width="1.5"/>
+  <rect x="1" y="1" width="558" height="318" rx="18" fill="url(#typescript-grid)"/>
+  <path d="M31 1H149" stroke="#D23B73" stroke-width="2"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="30" y="39" fill="#EADCC8" font-size="12" font-weight="600" letter-spacing="1.5">03 / FULL-STACK DEVELOPMENT</text>
+    <rect x="444" y="58" width="88" height="88" rx="20" fill="#D23B73" fill-opacity=".07" stroke="#D23B73" stroke-opacity=".2"/>
+    <g transform="translate(452 65)" color="#D23B73" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="10" width="54" height="54" rx="9"/><text x="36" y="49" fill="currentColor" stroke="none" font-family="Segoe UI, Arial, sans-serif" font-size="27" font-weight="750" text-anchor="middle">TS</text></g>
+    <g fill="#EADCC8"><text x="30" y="153" font-size="44" font-weight="700" letter-spacing="-1.2">TypeScript</text></g>
+    <text x="30" y="201" fill="#EADCC8" fill-opacity=".8" font-size="19">Type-safe connections across the stack.</text>
+    <text x="30" y="229" fill="#EADCC8" fill-opacity=".8" font-size="19">From interface to API.</text>
+    <path d="M30 260H530" stroke="#EADCC8" stroke-opacity=".15"/>
+    <circle cx="34" cy="288" r="3" fill="#D23B73"/>
+    <text x="49" y="292" fill="#EADCC8" font-family="Consolas, monospace" font-size="12" letter-spacing=".5">REACT  /  NEXT.JS  /  NODE.JS</text>
+  </g>
+</svg>
+
+<svg x="624" y="384" xmlns="http://www.w3.org/2000/svg" width="560" height="320" viewBox="0 0 560 320" fill="none" role="img" aria-labelledby="devops-title devops-desc">
+  <title id="devops-title">DevOps</title>
+  <desc id="devops-desc">Reproducible environments. Automated workflows. Less friction. DOCKER, AUTOMATION, TOOLING.</desc>
+  <defs><linearGradient id="devops-bg" x1="0" y1="0" x2="560" y2="320" gradientUnits="userSpaceOnUse"><stop stop-color="#1A1A24"/><stop offset="1" stop-color="#0B0B0F"/></linearGradient><pattern id="devops-grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" stroke="#EADCC8" stroke-opacity=".035"/></pattern></defs>
+  <rect x=".75" y=".75" width="558.5" height="318.5" rx="18" fill="url(#devops-bg)" stroke="#EADCC8" stroke-opacity=".2" stroke-width="1.5"/>
+  <rect x="1" y="1" width="558" height="318" rx="18" fill="url(#devops-grid)"/>
+  <path d="M31 1H149" stroke="#FF8A3D" stroke-width="2"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="30" y="39" fill="#EADCC8" font-size="12" font-weight="600" letter-spacing="1.5">04 / DELIVERY &amp; OPERATIONS</text>
+    <rect x="444" y="58" width="88" height="88" rx="20" fill="#FF8A3D" fill-opacity=".07" stroke="#FF8A3D" stroke-opacity=".2"/>
+    <g transform="translate(452 65)" color="#FF8A3D" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"><path d="M36 36c-9-15-27-18-30-3-4 20 19 22 30 3 11-19 34-17 30 3-3 15-21 12-30-3Z"/><path d="m18 22 5 5-6 4m38 18-5-5 6-4"/></g>
+    <g fill="#EADCC8"><text x="30" y="153" font-size="44" font-weight="700" letter-spacing="-1.2">DevOps</text></g>
+    <text x="30" y="201" fill="#EADCC8" fill-opacity=".8" font-size="19">Reproducible environments.</text>
+    <text x="30" y="229" fill="#EADCC8" fill-opacity=".8" font-size="19">Automated workflows. Less friction.</text>
+    <path d="M30 260H530" stroke="#EADCC8" stroke-opacity=".15"/>
+    <circle cx="34" cy="288" r="3" fill="#FF8A3D"/>
+    <text x="49" y="292" fill="#EADCC8" font-family="Consolas, monospace" font-size="12" letter-spacing=".5">DOCKER  /  AUTOMATION  /  TOOLING</text>
+  </g>
+</svg>
+</svg>

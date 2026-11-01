@@ -1,19 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="560" height="320" viewBox="0 0 560 320" fill="none" role="img" aria-labelledby="title desc">
   <title id="title">Golang</title>
   <desc id="desc">Focused services. Straightforward code. Well-structured APIs, built with Go. GO, REST, POSTGRESQL.</desc>
-  <defs><linearGradient id="bg" x1="0" y1="0" x2="560" y2="320" gradientUnits="userSpaceOnUse"><stop stop-color="#142F30"/><stop offset="1" stop-color="#0B2023"/></linearGradient><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" stroke="#A5C9BA" stroke-opacity=".035"/></pattern></defs>
-  <rect x=".75" y=".75" width="558.5" height="318.5" rx="18" fill="url(#bg)" stroke="#3A5550" stroke-width="1.5"/>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="560" y2="320" gradientUnits="userSpaceOnUse"><stop stop-color="#1A1A24"/><stop offset="1" stop-color="#0B0B0F"/></linearGradient><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" stroke="#EADCC8" stroke-opacity=".035"/></pattern></defs>
+  <rect x=".75" y=".75" width="558.5" height="318.5" rx="18" fill="url(#bg)" stroke="#EADCC8" stroke-opacity=".2" stroke-width="1.5"/>
   <rect x="1" y="1" width="558" height="318" rx="18" fill="url(#grid)"/>
-  <path d="M31 1H149" stroke="#7DDBDF" stroke-width="2"/>
+  <path d="M31 1H149" stroke="#6CCBFF" stroke-width="2"/>
   <g font-family="Segoe UI, Arial, sans-serif">
-    <text x="30" y="39" fill="#7DDBDF" font-size="12" font-weight="600" letter-spacing="1.5">02 / BACKEND ENGINEERING</text>
-    <rect x="444" y="58" width="88" height="88" rx="20" fill="#7DDBDF" fill-opacity=".07" stroke="#7DDBDF" stroke-opacity=".2"/>
-    <g transform="translate(452 65)" color="#7DDBDF" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"><path d="M6 24h17M2 36h17M8 48h15"/><text x="25" y="47" fill="currentColor" stroke="none" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="800" font-style="italic">Go</text></g>
-    <g fill="#F3F4E9"><text x="30" y="153" font-size="44" font-weight="700" letter-spacing="-1.2">Golang</text></g>
-    <text x="30" y="201" fill="#BCD0C8" font-size="19">Focused services. Straightforward code.</text>
-    <text x="30" y="229" fill="#BCD0C8" font-size="19">Well-structured APIs, built with Go.</text>
-    <path d="M30 260H530" stroke="#34514B"/>
-    <circle cx="34" cy="288" r="3" fill="#7DDBDF"/>
-    <text x="49" y="292" fill="#7DDBDF" font-family="Consolas, monospace" font-size="12" letter-spacing=".5">GO  /  REST  /  POSTGRESQL</text>
+    <text x="30" y="39" fill="#EADCC8" font-size="12" font-weight="600" letter-spacing="1.5">02 / BACKEND ENGINEERING</text>
+    <rect x="444" y="58" width="88" height="88" rx="20" fill="#6CCBFF" fill-opacity=".07" stroke="#6CCBFF" stroke-opacity=".2"/>
+    <g transform="translate(452 65)" color="#6CCBFF" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"><path d="M6 24h17M2 36h17M8 48h15"/><text x="25" y="47" fill="currentColor" stroke="none" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="800" font-style="italic">Go</text></g>
+    <g fill="#EADCC8"><text x="30" y="153" font-size="44" font-weight="700" letter-spacing="-1.2">Golang</text></g>
+    <text x="30" y="201" fill="#EADCC8" fill-opacity=".8" font-size="19">Focused services. Straightforward code.</text>
+    <text x="30" y="229" fill="#EADCC8" fill-opacity=".8" font-size="19">Well-structured APIs, built with Go.</text>
+    <path d="M30 260H530" stroke="#EADCC8" stroke-opacity=".15"/>
+    <circle cx="34" cy="288" r="3" fill="#6CCBFF"/>
+    <text x="49" y="292" fill="#EADCC8" font-family="Consolas, monospace" font-size="12" letter-spacing=".5">GO  /  REST  /  POSTGRESQL</text>
   </g>
 </svg>

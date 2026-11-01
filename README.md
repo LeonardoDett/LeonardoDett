@@ -19,12 +19,7 @@ In my spare time, I experiment with new technologies, build libraries, and creat
 ## Core expertise
 
 <p align="center">
-  <img src="./assets/architecture.svg" alt="Systems Architecture — Clear boundaries, explicit contracts, and systems designed to evolve. Domain modeling, APIs, and data." width="49%" />
-  <img src="./assets/golang.svg" alt="Golang — Focused services, straightforward code, and well-structured APIs. Go, REST, and PostgreSQL." width="49%" />
-</p>
-<p align="center">
-  <img src="./assets/typescript.svg" alt="TypeScript — Type-safe connections from interface to API. TypeScript, React, Next.js, and Node.js." width="49%" />
-  <img src="./assets/devops.svg" alt="DevOps — Reproducible environments and automated workflows. Docker, automation, and tooling." width="49%" />
+  <img src="./assets/stack.svg" alt="Core expertise: Systems Architecture — clear boundaries and explicit contracts; Golang — focused services and well-structured APIs; TypeScript — type-safe connections across the stack; DevOps — reproducible environments and automated workflows." width="100%" />
 </p>
 
 **Also in my toolkit:** Fastify · Drizzle ORM · Zod · Tailwind CSS · Storybook · Radix UI · pnpm · Turborepo
