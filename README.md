@@ -1,74 +1,36 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Leonardo Dettmann Krüger — Senior Developer. Da interface à API. Do detalhe ao sistema." width="100%" />
+  <img src="./assets/banner.svg" alt="Leonardo Dettmann Krüger — Senior Developer. From interface to API. From detail to system." width="100%" />
 </p>
 
 <p align="center">
-  <a href="#sobre">Sobre</a> &nbsp; / &nbsp;
-  <a href="#stack">Stack</a> &nbsp; / &nbsp;
-  <a href="#projetos-em-destaque">Projetos</a> &nbsp; / &nbsp;
-  <a href="https://github.com/LeonardoDett?tab=repositories">Todos os repositórios ↗</a>
+  <a href="#about">About</a> &nbsp; / &nbsp;
+  <a href="#core-expertise">Core expertise</a> &nbsp; / &nbsp;
+  <a href="https://github.com/LeonardoDett?tab=repositories">Explore repositories ↗</a>
 </p>
 
-## Sobre
+## About
 
-Sou **Leonardo Dettmann Krüger**, desenvolvedor sênior. Construo aplicações web conectando **interfaces, APIs e dados**, com atenção à experiência de uso e à organização do código.
+I'm **Leonardo Dettmann Krüger**, a senior developer focused on **systems architecture, Go, TypeScript, and DevOps**. I build web applications that connect thoughtful interfaces, well-defined services, and reliable data flows.
 
-Por aqui, você encontra componentes React, design systems e projetos full stack. Meu foco é transformar partes bem construídas em sistemas que fazem sentido como um todo.
+My approach brings structure to the whole system: clear responsibilities, reusable components, explicit contracts, and reproducible environments.
 
-**Interfaces com intenção. Componentes que se conectam. Código que pode evoluir.**
+**Thoughtful architecture. Connected components. Code that can evolve.**
 
-## Stack
+## Core expertise
 
-| Camada | Tecnologias |
-| :--- | :--- |
-| **Interfaces** | TypeScript · React · Next.js · Tailwind CSS |
-| **APIs** | Node.js · Fastify · Go · REST |
-| **Dados** | PostgreSQL · Drizzle ORM · Zod |
-| **Componentes & ferramentas** | Storybook · Radix UI · Docker · pnpm · Turborepo |
+<p align="center">
+  <img src="./assets/architecture.svg" alt="Systems Architecture — Clear boundaries, explicit contracts, and systems designed to evolve. Domain modeling, APIs, and data." width="49%" />
+  <img src="./assets/golang.svg" alt="Golang — Focused services, straightforward code, and well-structured APIs. Go, REST, and PostgreSQL." width="49%" />
+</p>
+<p align="center">
+  <img src="./assets/typescript.svg" alt="TypeScript — Type-safe connections from interface to API. TypeScript, React, Next.js, and Node.js." width="49%" />
+  <img src="./assets/devops.svg" alt="DevOps — Reproducible environments and automated workflows. Docker, automation, and tooling." width="49%" />
+</p>
 
-## Projetos em destaque
-
-<table>
-  <tr>
-    <td width="32%" valign="top">
-      <h3><a href="https://github.com/LeonardoDett/DesfioFullStackIA">01 / Webhook Inspector ↗</a></h3>
-      <p>Aplicação para capturar e inspecionar requisições de webhooks: corpo, cabeçalhos e parâmetros em uma interface dedicada.</p>
-      <p><sub>REACT · FASTIFY · POSTGRESQL · DRIZZLE</sub></p>
-    </td>
-    <td width="34%" valign="top">
-      <h3><a href="https://github.com/LeonardoDett/libcomposition">02 / libcomposition ↗</a></h3>
-      <p>Biblioteca de componentes React em construção, com elementos de formulário, layout e feedback para compor interfaces.</p>
-      <p><sub>REACT · TYPESCRIPT · TAILWIND CSS · VITE</sub></p>
-    </td>
-    <td width="34%" valign="top">
-      <h3><a href="https://github.com/LeonardoDett/DesignSystem_Storybook">03 / Design System ↗</a></h3>
-      <p>Projeto de design system organizado em monorepo, com Storybook e uma estrutura de pacotes para componentes e configuração.</p>
-      <p><sub>TYPESCRIPT · STORYBOOK · STITCHES · TURBOREPO</sub></p>
-    </td>
-  </tr>
-</table>
-
-### O que conecta esses projetos
-
-- **Composição:** componentes reutilizáveis que funcionam bem juntos.
-- **Integração:** interfaces e serviços conectados por contratos claros.
-- **Estrutura:** responsabilidades organizadas para facilitar a evolução.
-
-<details>
-  <summary><strong>Read in English</strong></summary>
-
-  <br />
-
-  I'm **Leonardo Dettmann Krüger**, a senior developer building web applications across interfaces, APIs, and data.
-
-  My repositories explore React components, design systems, and full-stack development with TypeScript, Node.js, and PostgreSQL. I also work with Go and Next.js.
-
-  Featured work: a **webhook inspector**, a **React component library**, and a **Storybook design system**. I care about thoughtful interfaces, reusable components, and code that can evolve.
-
-</details>
+**Also in my toolkit:** Fastify · Drizzle ORM · Zod · Tailwind CSS · Storybook · Radix UI · pnpm · Turborepo
 
 ---
 
 <p align="center">
-  <sub><strong>Leonardo Dettmann Krüger</strong> &nbsp; · &nbsp; Da interface à API. Do detalhe ao sistema.</sub>
+  <sub><strong>Leonardo Dettmann Krüger</strong> &nbsp; · &nbsp; From interface to API. From detail to system.</sub>
 </p>

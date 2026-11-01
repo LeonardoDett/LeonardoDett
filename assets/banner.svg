@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" fill="none" role="img" aria-labelledby="title desc">
   <title id="title">Leonardo Dettmann Krüger — Senior Developer</title>
-  <desc id="desc">Banner em verde profundo e lima, com o nome de Leonardo e um diagrama conectando interfaces, APIs e dados.</desc>
+  <desc id="desc">Deep green and lime banner featuring Leonardo's name and a diagram connecting interfaces, APIs, and data.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="400" gradientUnits="userSpaceOnUse"><stop stop-color="#102B2B"/><stop offset="1" stop-color="#091C20"/></linearGradient>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#A5C9BA" stroke-opacity=".055"/></pattern>
@@ -17,17 +17,15 @@
     <text x="49" y="213" fill="#F3F4E9" font-size="36" font-weight="400" letter-spacing="-.8">Dettmann Krüger</text>
     <rect x="49" y="245" width="6" height="6" rx="3" fill="#D6F78A"/>
     <text x="68" y="253" fill="#D6F78A" font-size="18" font-weight="600">Senior Developer</text>
-    <text x="49" y="292" fill="#A1BCB5" font-size="16">Da interface à API. Do detalhe ao sistema.</text>
+    <text x="49" y="292" fill="#A1BCB5" font-size="16">From interface to API. From detail to system.</text>
     <path d="M49 332H597" stroke="#33504B"/>
-    <text x="49" y="363" fill="#91ABA4" font-size="12" letter-spacing="1.8">TYPESCRIPT</text>
-    <circle cx="164" cy="358" r="2" fill="#D6F78A"/>
-    <text x="183" y="363" fill="#91ABA4" font-size="12" letter-spacing="1.8">REACT</text>
-    <circle cx="257" cy="358" r="2" fill="#D6F78A"/>
-    <text x="276" y="363" fill="#91ABA4" font-size="12" letter-spacing="1.8">NODE.JS</text>
-    <circle cx="371" cy="358" r="2" fill="#D6F78A"/>
-    <text x="390" y="363" fill="#91ABA4" font-size="12" letter-spacing="1.8">GO</text>
-    <circle cx="433" cy="358" r="2" fill="#D6F78A"/>
-    <text x="452" y="363" fill="#91ABA4" font-size="12" letter-spacing="1.8">POSTGRESQL</text>
+    <text x="49" y="363" fill="#91ABA4" font-size="12" letter-spacing="1.5">ARCHITECTURE</text>
+    <circle cx="184" cy="358" r="2" fill="#D6F78A"/>
+    <text x="203" y="363" fill="#91ABA4" font-size="12" letter-spacing="1.5">GOLANG</text>
+    <circle cx="283" cy="358" r="2" fill="#D6F78A"/>
+    <text x="302" y="363" fill="#91ABA4" font-size="12" letter-spacing="1.5">TYPESCRIPT</text>
+    <circle cx="420" cy="358" r="2" fill="#D6F78A"/>
+    <text x="439" y="363" fill="#91ABA4" font-size="12" letter-spacing="1.5">DEVOPS</text>
     <!-- An original system diagram: interface, service, persistence. -->
     <rect x="718" y="54" width="340" height="196" rx="14" fill="#142F30" stroke="#3E6158"/>
     <path d="M718 89H1058" stroke="#3E6158"/>
