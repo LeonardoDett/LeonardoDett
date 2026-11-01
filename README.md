@@ -10,11 +10,11 @@
 
 ## About
 
-I'm **Leonardo Dettmann Krüger**, a senior developer focused on **systems architecture, Go, TypeScript, and DevOps**. I build web applications that connect thoughtful interfaces, well-defined services, and reliable data flows.
+I'm passionate about **software development and systems architecture**. I enjoy discovering new technologies and exploring their different applications, continually expanding and updating my knowledge to find the best solutions to a wide range of challenges.
 
-My approach brings structure to the whole system: clear responsibilities, reusable components, explicit contracts, and reproducible environments.
+In my spare time, I experiment with new technologies, build libraries, and create applications that help solve everyday problems.
 
-**Thoughtful architecture. Connected components. Code that can evolve.**
+> *“No wind is favorable to a ship without a course.”*
 
 ## Core expertise
 
