@@ -12,6 +12,8 @@
 
 I'm passionate about **software development and systems architecture**. I enjoy discovering new technologies and exploring their different applications, continually expanding and updating my knowledge to find the best solutions to a wide range of challenges.
 
+When working on systems, I aim to bring clarity and a solid foundation to the code, with well-defined responsibilities, reusable components, explicit contracts, and reproducible environments throughout the development lifecycle. I believe good architecture should allow a system to evolve in a structured way while keeping **scalability and maintainability** in focus.
+
 In my spare time, I experiment with new technologies, build libraries, and create applications that help solve everyday problems.
 
 > *“No wind is favorable to a ship without a course.”*
